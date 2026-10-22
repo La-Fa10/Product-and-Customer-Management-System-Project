@@ -7,17 +7,17 @@ A Java application for managing organization information, customer details, and 
 * Store customer information.
 * Add and display products.
 * Display organization and order summaries.
-* 
+  
 ## Technologies
 * Java
 * Object-Oriented Programming (OOP)
-* 
+  
 ## Team Members
 **Layan Alswaat**
 * Developed the `ProductData` class.
-* 
+  
 **Aseel Alghamdi**
 * Developed the `CustomerData` class.
-* 
+  
 **Shared Work**
 * Developed the `App` and `OrganizationData` classes.
