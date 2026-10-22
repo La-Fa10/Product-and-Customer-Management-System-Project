@@ -9,9 +9,9 @@ A Java application for managing organization information, customer details, and 
 * Java
 * Object-Oriented Programming (OOP)
 ## Team Members
-**Aseel Alghamdi**
-* Developed the `CustomerData` class.
 **Layan Alswaat**
 * Developed the `ProductData` class.
+**Aseel Alghamdi**
+* Developed the `CustomerData` class.
 **Shared Work**
 * Developed the `App` and `OrganizationData` classes.
